@@ -6,6 +6,12 @@ This project is an interactive IPL statistics dashboard created for Task 1 of th
 
 The dashboard analyzes IPL match and ball-by-ball data and presents key statistics through visualizations and interactive filters.
 
+## Live Demo
+
+The interactive IPL Statistics Dashboard is deployed on Render.
+
+[View Live Dashboard](https://ipl-cricket-statistics-dashboard.onrender.com)
+
 ## Dashboard Features
 
 The project includes the following visualizations:
